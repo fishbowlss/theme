@@ -1,5 +1,5 @@
 {
-  "name": "Night Life (Default)",
+  "name": "Night Life pirated",
   "version": "1.2",
   "description": "Darker theme with purple accent and a beautiful background",
   "authors": [
@@ -50,7 +50,7 @@
   },
   "background": {
     "blur": 0.6,
-    "url": "https://raw.githubusercontent.com/fishbowlss/theme/VendettaTheme/wp8280929-dark-purple-anime-wallpapers.jpg",
+    "url": "https://raw.githubusercontent.com/fishbowlss/theme/VendettaTheme/e271de5e3bcdd87445577fb8ef3db182.jpg",
     "alpha": 1
   },
   "spec": 2
