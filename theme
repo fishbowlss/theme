@@ -1,7 +1,7 @@
 {
-  "name": "sebas test",
+  "name": "Night Life (Default)",
   "version": "1.2",
-  "description": "seba",
+  "description": "Darker theme with purple accent and a beautiful background",
   "authors": [
     {
       "name": "S9Teen",
@@ -9,11 +9,11 @@
     }
   ],
   "semanticColors": {
-    "HEADER_PRIMARY": ["#c3c2c4"],
-    "HEADER_SECONDARY": ["#fafafc"],
-    "INTERACTIVE_ACTIVE": ["#d6d6d6"],
-    "INTERACTIVE_NORMAL": ["#8c8c8c"],
-    "INTERACTIVE_MUTED": ["#454545"],
+    "HEADER_PRIMARY": ["#756CD9"],
+    "HEADER_SECONDARY": ["#6F66CC"],
+    "INTERACTIVE_ACTIVE": ["#8C6EFF"],
+    "INTERACTIVE_NORMAL": ["#7059B3"],
+    "INTERACTIVE_MUTED": ["#4B458A"],
     "BACKGROUND_ACCENT": ["#262626"],
     "BACKGROUND_MENTIONED": ["#370F8060"],
     "BACKGROUND_MESSAGE_HOVER": ["#1B0840"],
@@ -30,15 +30,15 @@
     "CHANNELS_DEFAULT": ["#635CB8"],
     "CHANNEL_ICON": ["#756CD9"],
     "CHAT_BACKGROUND": ["#121212"],
-    "TEXT_DANGER": ["#c3c2c4"],
-    "TEXT_NORMAL": ["#fafafc"].
+    "TEXT_DANGER": ["#A12829"],
+    "TEXT_NORMAL": ["#DFE2E6"]
   },
   "rawColors": {
     "BRAND_260": "#FAE6FA",
-    "BRAND_360": "#bababa",
-    "BRAND_560": "#262626",
+    "BRAND_360": "#8A80FF",
+    "BRAND_560": "#4719C4",
     "GREEN_360": "#6243FF",
-    "PRIMARY_230": "#bababa",
+    "PRIMARY_230": "#8A80FF",
     "PRIMARY_600": "#121212",
     "PRIMARY_630": "#141414",
     "PRIMARY_660": "#1F1F1F",
